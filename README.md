@@ -1,4 +1,5 @@
 <h1 align="center">👋Hi, I'm Eleah</h1>
+<img align="center" src="https://i.ibb.co/F6tVxLg/eleah-background.jpg" alt="eleah-background" border="0" width="400px">
 <p align="center">✨A passionate full-stack developer from New York.</p>
 <p align="center">📧 Email - eleahjburman@gmail.com </p>
 <p align="center">💼 LinkedIn - <a href="https://www.linkedin.com/in/eleahburman/">https://www.linkedin.com/in/eleahburman/</a></p>
@@ -15,10 +16,10 @@
 
 <h3  align="center">Other Interests</h3>
   <ul>
-  <p><li>Videogames: Eleah is currently trying to complete "The Legend of Zelda: Tears of the Kingdom"</li></p>
-  <p><li>Cats: Eleah has two cats named Sondheim and Webber (after the musical theater composers)</li></p>
-  <p><li>Music: Eleah has played piano and trombone for over 20 years and was in the all-state concert band</li></p>
-  <p><li>Art: Eleah owns over 50 paintings that she has painted with acrylic and is an avid-art collector</li></p>
+    <li>Videogames: Eleah is currently trying to complete "The Legend of Zelda: Tears of the Kingdom"</li>
+    <li>Cats: Eleah has two cats named Sondheim and Webber (after the musical theater composers)</li>
+    <li>Music: Eleah has played piano and trombone for over 20 years and was in the all-state concert band</li>
+    <li>Art: Eleah owns over 50 paintings that she has painted with acrylic and is an avid-art collector</li>
   </ul>
 <h3 align="center">Connect With Me:</h3>
 <p align="center">
