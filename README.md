@@ -2,7 +2,7 @@
 <div align="center">
   <img align="center" src="https://i.ibb.co/F6tVxLg/eleah-background.jpg" alt="eleah-background" border="0" width="400px">
 </div>
-<p align="center">✨A passionate full-stack developer from New York.</p>
+<p align="center">✨A passionate full-stack developer from New York</p>
 <p align="center">📧 Email - eleahjburman@gmail.com </p>
 <p align="center">💼 LinkedIn - <a href="https://www.linkedin.com/in/eleahburman/">https://www.linkedin.com/in/eleahburman/</a></p>
 <p align="center">🎨Portfolio - <a href="https://eleahburmanportfolio.fly.dev/">https://eleahburmanportfolio.fly.dev/</a></p>
@@ -16,13 +16,13 @@
 <p align="center">Eleah is a full-stack bootcamp graduate from General Assembly and career changer after 7 years as an Executive Assistant.</p>
 <p align="center">As a highly motivated and creative full-stack software engineer, I possess a strong passion for front-end web design and back-end solutions. I am changing careers with a range of skills including attention to detail, problem solving skills, and communication. I am proficient in HTML, CSS, JavaScript, Python, Express, React, and Python. My passion for my work stems from a desire to provide visually appealing and helpful solutions for clients.</p>
 
-<h3  align="center">Other Interests</h3>
+<h3  align="center">Other Interests:</h3>
   <ul>
-    <li>Videogames: Eleah is currently trying to complete "The Legend of Zelda: Tears of the Kingdom"</li>
-    <li>Cats: Eleah has two cats named Sondheim and Webber (after the musical theater composers)</li>
-    <li>Music: Eleah has played piano and trombone for over 20 years and was in the all-state concert band</li>
-    <li>Art: Eleah owns over 50 paintings that she has painted with acrylic and is an avid-art collector</li>
-  </ul>
+    <li>Videogames: Eleah is currently embarking on an epic quest in "The Legend of Zelda: Tears of the Kingdom," vanquishing foes and unraveling mysteries.</li>
+    <li>Cats: Eleah's home is filled with the enchanting presence of her two feline companions, Sondheim and Webber, who bring joy and melodies to her life.</li>
+    <li>Music: Eleah's passion for music knows no bounds. With over two decades of experience, she has masterfully played the piano and trombone, composing beautiful symphonies of sound.</li>
+    <li>Art: Eleah is not only a skilled artist but also an avid art collector. Her brushstrokes dance with vibrant colors, and her collection of over 50 exquisite acrylic paintings tells stories that captivate the imagination.</li>
+</ul>
 <h3 align="center">Connect With Me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/eleahburman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eleahburman" height="30" width="40" /></a>
