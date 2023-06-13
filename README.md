@@ -1,5 +1,7 @@
 <h1 align="center">👋Hi, I'm Eleah</h1>
-<img align="center" src="https://i.ibb.co/F6tVxLg/eleah-background.jpg" alt="eleah-background" border="0" width="400px">
+<div align="center">
+  <img align="center" src="https://i.ibb.co/F6tVxLg/eleah-background.jpg" alt="eleah-background" border="0" width="400px">
+</div>
 <p align="center">✨A passionate full-stack developer from New York.</p>
 <p align="center">📧 Email - eleahjburman@gmail.com </p>
 <p align="center">💼 LinkedIn - <a href="https://www.linkedin.com/in/eleahburman/">https://www.linkedin.com/in/eleahburman/</a></p>
