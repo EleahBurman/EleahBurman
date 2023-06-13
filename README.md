@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eleah</h1>
 <h3 align="center">A passionate full-stack developer from New York.</h3>
+<h3 align="center">My portfolio can be found <a href="https://eleahburmanportfolio.fly.dev/">here.</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eleahburman&label=Profile%20views&color=78e8b4&style=flat" alt="eleahburman" /> </p>
 
