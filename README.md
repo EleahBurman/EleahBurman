@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi, I'm Eleah</h1>
 <div align="center">
-  <img align="center" src="https://i.ibb.co/F6tVxLg/eleah-background.jpg" alt="eleah-background" border="0" width="400px">
+  <img align="center" src="https://i.ibb.co/Ht3P4XT/eleah-burman-banner-github.png" alt="eleah-burman-banner-github" border="0" width="400px">
 </div>
 <p align="center">✨A passionate full-stack developer from New York</p>
   <p align="center">📧 Email - <a href="mailto:eleahjburman@gmail.com">
